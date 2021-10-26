@@ -1,4 +1,7 @@
 #!/usr/bin/env python3
+#Caesar R. Watts-Hall
+#Date: 10.25.2021
+
 from math import inf as infinity
 from random import choice
 import platform
